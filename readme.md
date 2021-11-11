@@ -1,4 +1,6 @@
 # SIGN UP RESPONSIVE 
+ ## Screenshots
+ ![Alt text](screenshots/print.jpeg?raw=true  "Title")
 
 ## Description
 
