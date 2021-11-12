@@ -16,7 +16,6 @@ This is a simple page static of sign up responsive in HTML and CSS.
 ```html
     git clone https://github.com/Aristeu-dev/SignUp.git
 ```
-- Unzip file downloaded
 #### Run
 
 - Open index.html with your favorite browser
